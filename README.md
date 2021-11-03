@@ -11,27 +11,27 @@
 
 + суммирование двух чисел  
 
-    function sum(a, b) {
-        return a + b;
-    }
+        function sum(a, b) {
+            return a + b;
+        }
 
 + Вычитание двух чисел  
 
-    function min(a, b) {
-        return a - b;
-    }
+        function min(a, b) {
+            return a - b;
+        }
 
 + Умножение двух чисел  
 
-    function umn(a, b) {
-        return a * b;
-    }
+        function umn(a, b) {
+            return a * b;
+        }
 
 + Деление двух чисел  
 
-    function del(a, b) {
-        return a / b;
-    } 
+        function del(a, b) {
+            return a / b;
+        } 
 
 > Сначала объявляем функцию, которая имеет параметры как a, b. В теле функций операция возвращает значения с даными параметрами<br/>  
 
